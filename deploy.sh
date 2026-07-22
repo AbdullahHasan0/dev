@@ -12,8 +12,4 @@ echo "Copying new website..."
 
 sudo cp -r /home/ubuntu/site/* /var/www/html/
 
-echo "Restarting Nginx...."
-
-sudo service nginx restart
-
 echo "Deployment completed successfully"s
