@@ -6,7 +6,7 @@ echo "Starting Deployment..."
 
 echo "Cleaning Old Website..."
 
-sudo rm -rf/var/www/html/*
+sudo rm -rf /var/www/html/*
 
 echo "Copying new website..."
 
